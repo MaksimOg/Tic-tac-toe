@@ -1,0 +1,40 @@
+
+  body{
+   background-color:#1de016;
+   font-family: 'Courier New' Courier monospace;
+  }
+   #doska{
+    height:310px;
+	width: 300px;
+	border: 1px solid;
+	margin: 100px auto auto auto;
+	background-color: red;
+   }
+   .yacheika{
+    height: 100px;
+	width: 100px;
+	border: 1px solid;
+	border-color:blue;
+	display: inline-block;
+	background-color: white;
+	vertical-align:top;
+	margin-left: -.36em;
+	background-color:#3dfff2;
+   }
+   .win{
+    color: green;
+   }
+   p{
+    margin:0px;
+	text-align: center;
+	font-size: 100px;
+	vertical-align:top;
+	line-height:90px;
+   }
+   #menu{
+    height: 100px;
+	width: 200px;
+    margin:auto;
+	display:-webkit-box;
+	-webkit-box-orient: horizontal;
+   }
